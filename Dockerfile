@@ -11,4 +11,3 @@ VOLUME /data
 EXPOSE 25565
 
 CMD echo eula=true > /data/eula.txt && java -jar /minecraft_server.jar
-

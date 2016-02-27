@@ -2,6 +2,9 @@
 
 Personal project for running my own Minecraft servers.
 
+[![ImageLayers Size](https://img.shields.io/imagelayers/image-size/axeclbr/minecraft/latest.svg?style=flat-square)](https://imagelayers.io/?images=axeclbr/minecraft:latest)
+[![Twitter Follow](https://img.shields.io/twitter/follow/axeclbr.svg?style=social)](https://twitter.com/intent/follow?screen_name=axeclbr)
+
 ## Usage
 
 ### Start the container
